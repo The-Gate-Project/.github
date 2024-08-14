@@ -47,6 +47,8 @@ If you have any questions regarding how your mod ended up here or else, feel fre
 
 - [WarslingSniperKit](https://github.com/The-Gate-Project/WarslingSniperKit) by **Adul** [Original forum](http://www.shsforums.net/topic/46480-warsling-sniper-kit-for-fighters/)
 
+- [Chanter Kit ](https://github.com/The-Gate-Project/Chanter_Kit ) by **Adul** [Original forum](http://www.shsforums.net/topic/39877-chanter-priestly-bard-kit-v14a/)
+
 - [Askaria-Quest_ChaosKnight-kit](https://github.com/The-Gate-Project/Askaria-Quest_ChaosKnight-kit) by "...." [Original forum](http://www.shsforums.net/topic/51321-askaria-quest-chaosknight-kit-mod-v13/)
 
 - [Domains-of-Dread](https://github.com/The-Gate-Project/Domains-of-Dread) by "...." [Original forum](http://www.shsforums.net/files/file/135-domains-of-dread/)
@@ -58,6 +60,8 @@ If you have any questions regarding how your mod ended up here or else, feel fre
 - [IWD Item Pack](https://github.com/The-Gate-Project/IWD_Item-Pack) by **Malek Deneith** [Original forum](http://www.shsforums.net/topic/46557-iwd-item-pack-for-bg2/)
 
 - [klatu-tweaks-and-fixes](https://github.com/The-Gate-Project/klatu-tweaks-and-fixes) by **Klatu** [Original forum](https://forums.beamdog.com/discussion/38864/mod-klatu-tweaks-and-fixes)
+
+- [Sir Renal](https://github.com/The-Gate-Project/Sir_Renal) by **Eslizon** [Original forum](http://www.shsforums.net/files/file/854-sir-renal-v25/)
 
 
 ***
@@ -86,6 +90,8 @@ I remind you that the IWD_EET mods are still in BETA.
 - [AerieBG1](https://github.com/The-Gate-Project/AerieBG1) by **Coutelier** [Original forum](https://forums.beamdog.com/discussion/38824/aerie-in-bg-ee-v1-1/p1)
 
 - [Ishlilka_The-Wizard-Slayer](https://github.com/The-Gate-Project/Ishlilka_The-Wizard-Slayer) by **WarChiefZeke** [Original forum](https://forums.beamdog.com/discussion/63679/npc-mod-ishlilka-the-wizard-slayer-for-bg1-sod-full-version-1-4/p1)
+
+- [Kara-Tur](https://github.com/The-Gate-Project/Kara-Tur) by **Corsymyr** [Original forum](https://forums.beamdog.com/discussion/15959/mod-twas-a-slow-boat-from-kara-tur-quest-store-new-items-release-90/p1)
 
 
 ***
@@ -129,3 +135,5 @@ I remind you that the IWD_EET mods are still in BETA.
 - [Garrick_Tales-of-a-Troubadour](https://github.com/The-Gate-Project/Garrick_Tales-of-a-Troubadour) by **Mirandir** [Original forum](https://www.baldursgateworld.fr/viewtopic.php?t=26267)
 
 - [CluaFr](https://github.com/The-Gate-Project/CluaFr)
+
+- [TDD_Hall-of-Knowledge](https://github.com/The-Gate-Project/TDD_Hall-of-Knowledge)
