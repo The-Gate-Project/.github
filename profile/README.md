@@ -84,7 +84,7 @@ I remind you that the IWD_EET mods are still in BETA.
 
 
 ***
-### Beamdog mod :
+### Beamdog mods :
 ----------------
 
 - [AerieBG1](https://github.com/The-Gate-Project/AerieBG1) by **Coutelier** [Original forum](https://forums.beamdog.com/discussion/38824/aerie-in-bg-ee-v1-1/p1)
@@ -125,6 +125,8 @@ I remind you that the IWD_EET mods are still in BETA.
 ***
 ### La Couronne de Cuivre mods :
 --------------------------------
+
+- [Butchery](https://github.com/The-Gate-Project/butchery) by **DrAzTiK** [Original forum](https://www.baldursgateworld.fr/viewforum.php?f=744)
 
 - [Kim_NPC](https://github.com/The-Gate-Project/Kim_NPC) by **Grenouillebleue** [Original forum](https://www.baldursgateworld.fr/viewforum.php?f=344)
 
