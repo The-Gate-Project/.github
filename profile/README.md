@@ -74,7 +74,7 @@ If you have any questions regarding how your mod ended up here or else, feel fre
 
 - [HoW_EET](https://github.com/The-Gate-Project/HoW_EET)
 
-- [Icewind_EET](https://github.com/The-Gate-Project/Icewind_EET)
+- [IWD_EET_End ](https://github.com/The-Gate-Project/IWD_EET_End )
 
 - [IWD1_EET](https://github.com/The-Gate-Project/IWD1_EET)
 
@@ -89,7 +89,7 @@ I remind you that the IWD_EET mods are still in BETA.
 ### A-Wizard-Did-It :
 ---------------------
 
-- [IWD_EET-PARTY-BANTER](https://github.com/The-Gate-Project/iwd_eet-party-banter) by **A-Wizard-Did-It**
+- [IWD_EET-Party-Banter](https://github.com/The-Gate-Project/iwd_eet-party-banter) by **A-Wizard-Did-It**
 
 
 ***
