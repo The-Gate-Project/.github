@@ -21,7 +21,9 @@ If you have any questions regarding how your mod ended up here or else, feel fre
 
 - [Com_encounters](https://github.com/The-Gate-Project/Com_encounters) by **Raven, Magnus Thorenson and CoM_Solaufein**
 
-- [Morituri Kit ](https://github.com/The-Gate-Project/Morituri_Kit) by **Aroc**
+- [Morituri Kit](https://github.com/The-Gate-Project/Morituri_Kit) by **Aroc**
+
+- [Summon Bhaalspawn](https://github.com/The-Gate-Project/Summon_Bhaalspawn) by **MajorTomSawyer**
 
 
 ***
@@ -84,6 +86,13 @@ I remind you that the IWD_EET mods are still in BETA.
 
 
 ***
+### A-Wizard-Did-It :
+---------------------
+
+- [IWD_EET-PARTY-BANTER](https://github.com/The-Gate-Project/iwd_eet-party-banter) by **A-Wizard-Did-It**
+
+
+***
 ### Beamdog mods :
 ----------------
 
@@ -138,4 +147,3 @@ I remind you that the IWD_EET mods are still in BETA.
 
 - [CluaFr](https://github.com/The-Gate-Project/CluaFr)
 
-- [TDD_Hall-of-Knowledge](https://github.com/The-Gate-Project/TDD_Hall-of-Knowledge)
